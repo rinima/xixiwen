@@ -1,4 +1,4 @@
 # 用例图及用例分析
-![alt text](jietu.PNG)
-![alt text](jietu1.PNG)
-![alt text](jietu2.PNG)
+![用例图](jietu.PNG)
+![主管](jietu1.PNG)
+![检修员](jietu2.PNG)
